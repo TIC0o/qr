@@ -1,0 +1,1 @@
+<?php do_action( 'haley_header_sidebar'); ?>

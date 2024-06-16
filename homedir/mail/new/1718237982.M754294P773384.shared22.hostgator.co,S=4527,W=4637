@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: siempr37@shared22.hostgator.co
+Received: from shared22.hostgator.co
+	by shared22.hostgator.co with LMTP
+	id EBbgKx47amYIzQsAulrT3A
+	(envelope-from <>)
+	for <siempr37@shared22.hostgator.co>; Wed, 12 Jun 2024 19:19:42 -0500
+Return-path: <>
+Envelope-to: siempr37@shared22.hostgator.co
+Delivery-date: Wed, 12 Jun 2024 19:19:42 -0500
+Received: from mailnull by shared22.hostgator.co with local (Exim 4.96.2)
+	id 1sHYBq-003G9O-1z
+	for siempr37@shared22.hostgator.co;
+	Wed, 12 Jun 2024 19:19:42 -0500
+X-Failed-Recipients: admin@siempreduclces.online
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@shared22.hostgator.co>
+To: siempr37@shared22.hostgator.co
+References: <mtv5k5olNt0dMDoNhFrdqlDejZWJslvrtwuMBNqpSXw@siempreduclces.online>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718237982-eximdsn-804823797
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sHYBq-003G9O-1z@shared22.hostgator.co>
+Date: Wed, 12 Jun 2024 19:19:42 -0500
+
+--1718237982-eximdsn-804823797
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@siempreduclces.online
+    No Such User Here
+
+--1718237982-eximdsn-804823797
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; shared22.hostgator.co
+
+Action: failed
+Final-Recipient: rfc822;admin@siempreduclces.online
+Status: 5.0.0
+
+--1718237982-eximdsn-804823797
+Content-type: message/rfc822
+
+Return-path: <siempr37@shared22.hostgator.co>
+Received: from siempr37 by shared22.hostgator.co with local (Exim 4.96.2)
+	(envelope-from <siempr37@shared22.hostgator.co>)
+	id 1sHYBq-003G99-1Q
+	for admin@siempreduclces.online;
+	Wed, 12 Jun 2024 19:19:42 -0500
+To: admin@siempreduclces.online
+Subject: [QR] New user account
+X-PHP-Script: siempreduclces.online/index.php for 190.90.39.232
+ X-PHP-Originating-Script: 4873:PHPMailer.php
+Date: Thu, 13 Jun 2024 00:19:42 +0000
+From: QR <admin@siempreduclces.online>
+Message-ID: <mtv5k5olNt0dMDoNhFrdqlDejZWJslvrtwuMBNqpSXw@siempreduclces.online>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+				<body style="background: #fff;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+
+				
+
+<div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+
+	<div style="color: #444444;font-weight: normal;">
+		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">QR</div>
+
+		<div style="clear:both"></div>
+	</div>
+
+	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+
+		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">beliks guevara has just created an account on QR.</div>
+
+		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="https://siempreduclces.online/user/belkis1/" style="color: #3ba1da;text-decoration: none;">https://siempreduclces.online/user/belkis1/</a></div>
+
+		<div style="padding: 0 0 15px 0;">
+
+			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+				<p><label>Fecha de registro del usuario: </label><span>junio 13, 2024 12:19 am</span></p><p><label>Formulario: </label><span>Default Registration - Form ID#: 58</span></p><div class="um-row _um_row_1 " style="padding: 0px 0px 0px 0px;background-color: #d1d1d1;margin: 0px 0px 30px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-color: #000000;border-radius: 0px;"><p><label>Nombre de usuario: </label><span>belkis1</span></p><p><label>Nombre: </label><span>beliks</span></p><p><label>Apellidos: </label><span>guevara</span></p><p><label>Dirección de correo electrónico: </label><span>kiisgvara2@gmail.com</span></p>
+			</div>
+		</div>
+
+	</div>
+
+	<div style="color: #999;padding: 20px 30px">
+
+		<div style="">Thank you!</div>
+		<div style="">The <a href="https://siempreduclces.online" style="color: #3ba1da;text-decoration: none;">QR</a> Team</div>
+
+	</div>
+
+</div>
+
+				</body>
+				</html>
+
+				
+
+
+--1718237982-eximdsn-804823797--

@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/siempreduclces.online
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/siempreduclces.online-bytes_log
+documentroot: /home1/siempr37/public_html
+group: siempr37
+hascgi: 0
+homedir: /home1/siempr37
+ip: 162.241.61.139
+owner: root
+phpopenbasedirprotect: 1
+phpversion: inherit
+port: 80
+scriptalias: 
+  - 
+    path: /home1/siempr37/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@siempreduclces.online
+serveralias: mail.siempreduclces.online www.siempreduclces.online
+servername: siempreduclces.online
+usecanonicalname: 'Off'
+user: siempr37

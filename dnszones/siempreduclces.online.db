@@ -1,0 +1,40 @@
+; cPanel first:110.0.31 (update_time):1715855771 Cpanel::ZoneFile::VERSION:1.3 hostname:shared22.hostgator.co latest:110.0.31
+; Zone file for siempreduclces.online
+$TTL 14400
+siempreduclces.online.	86400	IN	SOA	ns22.hostgator.co.	root.shared22.hostgator.co.	(
+						2024051612 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400	)
+siempreduclces.online.	86400	IN	NS	ns22.hostgator.co.
+siempreduclces.online.	86400	IN	NS	ns23.hostgator.co.
+siempreduclces.online.	14400	IN	A	162.241.61.139
+localhost	14400	IN	A	127.0.0.1
+mail	14400	IN	A	162.241.61.139
+www	14400	IN	CNAME	siempreduclces.online.
+ftp	14400	IN	CNAME	siempreduclces.online.
+cpanel	14400	IN	CNAME	siempreduclces.online.
+_caldavs._tcp	14400	IN	SRV	0	0	2080	shared22.hostgator.co.
+_caldavs._tcp	14400	IN	TXT	path=/
+webdisk	14400	IN	A	162.241.61.139
+autodiscover	14400	IN	A	162.241.61.139
+whm	14400	IN	A	162.241.61.139
+_caldav._tcp	14400	IN	SRV	0	0	2079	shared22.hostgator.co.
+_caldav._tcp	14400	IN	TXT	path=/
+autoconfig	14400	IN	A	162.241.61.139
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+cpcalendars	14400	IN	A	162.241.61.139
+cpcontacts	14400	IN	A	162.241.61.139
+_carddavs._tcp	14400	IN	SRV	0	0	2080	shared22.hostgator.co.
+_carddavs._tcp	14400	IN	TXT	path=/
+_carddav._tcp	14400	IN	SRV	0	0	2079	shared22.hostgator.co.
+_carddav._tcp	14400	IN	TXT	path=/
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2/7QZ+/NxtTH7CDr6yIjNJ1zojqvHVNLGY/YnwKtXEnuPE6tQ5mTYKA3IcG3Gr8SgsBApNl/4CTkbw8oAJ79mXSGtYp7Cs+dKKtEHMarBYDfwGeGyswApi2WgFjBnet+ueNhkumM71QLGapOjt2KpB9pobjr7MyG5BfGxClRsSQqEQciaPLRnm1EQtIKz/FNl" aghLZCc1KDDAmUR993cs0sGY5jp3Of6kvocvtZp3LpOCmRoA3ZlTS0mHogwJtWZSiWqDJ0ffhc7MgzWUYE7Vdq05/8Yh5bQB8+KcBg7gsZHRVDaKmOYngLYrO4i2suva55KNDAdnTCIKmaB12IH6wIDAQAB\;
+webmail	14400	IN	CNAME	titan.hostgator.co.
+siempreduclces.online.	3600	IN	MX	10	mx1.titan.email.
+siempreduclces.online.	3600	IN	MX	20	mx2.titan.email.
+siempreduclces.online.	3600	IN	TXT	"v=spf1 include:spf.titan.email ~all"
+titan1._domainkey	3600	IN	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3gK51ZZYZXrsGHlM2/T0v3uB804sf7tXWTGXHw6+MRYNxh1/X3cBbTpSyrG8Cl9S3MuUgckmJKuLcf76m1fxPwe2yKo9FHiSrLX6eDaCWxZPX8JPO0pyNUA4v6UQ0W47dS8CTqp9NhMasedF8QHSUEkw3otggRt5NY32QT3kdgQIDAQAB"
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=eA7n2UJa4JfU5NeUOwMk_pr5K7dhQWrzZ7hJuoam4tpIQggX7m4_FOV4GtVh5sBO
+_acme-challenge	14400	IN	TXT	bBiAlEMNu1rVy73nzy9frhjwWlcrnQd-1P-jaMbKQgo

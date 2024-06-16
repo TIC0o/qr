@@ -1,0 +1,3 @@
+162.241.61.139 - - [16/Jun/2024:09:30:38 -0500] "POST /wp-cron.php?doing_wp_cron=1718548238.5483810901641845703125 HTTP/1.1" 200 - "-" "WordPress/6.5.4; https://siempreduclces.online" siempreduclces.online 162.241.61.139
+162.241.61.139 - - [16/Jun/2024:09:30:38 -0500] "POST /wp-cron.php?doing_wp_cron=1718548238.7299070358276367187500 HTTP/1.1" 200 - "-" "WordPress/6.5.4; https://siempreduclces.online" siempreduclces.online 162.241.61.139
+203.33.203.148 - - [16/Jun/2024:09:30:36 -0500] "GET / HTTP/1.1" 301 - "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" siempreduclces.online 162.241.61.139

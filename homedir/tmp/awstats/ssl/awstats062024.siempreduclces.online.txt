@@ -1,0 +1,688 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home1/siempr37/tmp/awstats/ssl/awstats.siempreduclces.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2707                
+POS_VISITOR 10792               
+POS_DAY 16547               
+POS_DOMAIN 3540                
+POS_LOGIN 4026                
+POS_ROBOT 4181                
+POS_WORMS 4582                
+POS_EMAILSENDER 4713                
+POS_EMAILRECEIVER 4856                
+POS_SESSION 16769               
+POS_SIDER 16977               
+POS_FILETYPES 4991                
+POS_DOWNLOADS 5380                
+POS_OS 5612                
+POS_BROWSER 5888                
+POS_SCREENSIZE 6808                
+POS_UNKNOWNREFERER 6882                
+POS_UNKNOWNREFERERBROWSER 7383                
+POS_ORIGIN 7846                
+POS_SEREFERRALS 7987                
+POS_PAGEREFS 8131                
+POS_SEARCHWORDS 8351                
+POS_KEYWORDS 8503                
+POS_MISC 2370                
+POS_ERRORS 8562                
+POS_CLUSTER 3882                
+POS_SIDER_404 8789                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240616010323 417 132053 17551965831898
+FirstTime 20240611015832
+LastTime 20240616010320
+LastUpdate 20240616014800 417 0 417 0 0
+TotalVisits 189                 
+TotalUnique 135                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 153                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 14 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 93828 26 31 147308
+1 11 42 882122 33 34 30358
+2 17 17 130238 22 24 1826
+3 10 53 391721 15 15 1245
+4 13 13 343355 20 20 1660
+5 13 14 77204 22 30 41398
+6 32 126 2402883 25 25 1803
+7 13 13 64085 28 28 2324
+8 35 94 689982 35 35 2716
+9 12 12 304761 21 21 1743
+10 13 13 133692 19 19 1720
+11 8 25 272530 30 30 2490
+12 10 11 386300 33 33 2716
+13 58 264 3275781 37 38 6462
+14 64 79 105719 29 29 33157
+15 240 1237 6514671 63 65 169246
+16 399 1053 18910969 55 57 486022
+17 253 577 7070172 41 41 95405
+18 662 1636 34446364 105 107 432214
+19 264 647 3014642 59 186 992173
+20 527 1087 18367699 94 95 206410
+21 880 1581 27926519 146 146 828920
+22 512 1416 63087860 105 139 556948
+23 557 1755 52755595 73 99 1157245
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+co 3717 10411 207663837
+us 762 1115 28198449
+gb 30 38 1029172
+ru 21 26 643875
+jp 19 72 854947
+ca 11 11 276250
+cn 11 58 673779
+nl 10 10 4160
+se 9 10 119294
+ro 7 7 2912
+pt 3 3 1248
+de 3 3 1248
+at 2 2 832
+gr 2 2 832
+zz 1 1 416
+tr 1 1 31998
+lb 1 1 291
+hk 1 1 32162
+eu 1 2 88598
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 166 885165 20240615002217 4
+proximic 110 2242716 20240612223938 0
+Go\-http\-client/ 10 67689 20240612012329 2
+unknown 4 6781 20240615234854 4
+no_user_agent 4 341240 20240611230659 0
+bot[\s_+:,\.\;\/\\-] 2 61997 20240614164027 0
+curl 2 61997 20240613161439 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+gif 37 321837 0 0
+png 382 9894688 0 0
+php 3000 112393092 0 0
+html 797 24824712 0 0
+svg 194 225236 0 0
+woff2 35 2270348 0 0
+jpg 393 36858702 0 0
+Unknown 641 4431553 0 0
+jpeg 137 2691067 0 0
+json 66 19140726 0 0
+webp 11 791404 0 0
+woff 60 1146200 0 0
+ttf 13 151272 0 0
+css 2636 4963797 0 0
+zip 1 3057 0 0
+js 3371 17492217 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/uploads/wp-personal-data-exports/wp-personal-data-file-VXElwxD3hhBS44NBiV3Qrkr0jJNi3Ron.zip 1 0 3057
+/wp-content/themes/vertice/resources/videos/demo-video.mp4 0 4 2024392
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+win98 1 1
+linux 118 10
+win8.1 2 2
+win7 3 3
+winnt 1 1
+macosx 44 1
+androidmarshmallow 2 2
+Unknown 692 650
+androidoreo 1 1
+macosx15 8 6
+winxp 1 1
+android10 2 2
+win10 10597 3888
+androidnougat 2 2
+ios_iphone 304 42
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+Unknown 650 650
+chrome80.0.3987.149 3 3
+chrome83.0.4103.97 2 2
+safari13.0.5 1 1
+firefox120.0 2 2
+chrome125.0.6422.175 1 1
+lg\- 42 0
+firefox110.0 1 1
+msie6.0 1 1
+chrome61.0.3163.100 1 1
+safari17.5 131 6
+chrome79.0.3945.93 1 1
+chrome72.0.3626.121 1 1
+chrome121.0.6167.160 76 1
+firefox102.0 1 1
+chrome96.0.4664.110 2 1
+chrome123.0.0.0 90 90
+chrome100.0.4895.86 1 1
+safari13.0.3 101 34
+chrome86.0.4240.111 1 1
+chrome94.0.4606.61 9 3
+chrome88.0.4324.175 1 1
+firefox115.0 1 0
+chrome105.0.0.0 2 1
+netscape5.0 1 1
+chrome125.0.6422.141 12 4
+chrome75.0.2143 1 1
+chrome71.0.677 1 0
+httrack 1 1
+firefox115 1 1
+chrome101.0.4951.67 2 2
+chrome121.0.0.0 5 4
+safari9.0 1 1
+chrome57.0.2987.108 1 1
+chrome122.0.0.0 1 1
+chrome87.0.4280.88 43 1
+chrome86.0.4240.110 1 1
+chrome125.0.0.0 10211 3708
+chrome124.0.0.0 26 1
+safari16.1 71 1
+firefox122.0 2 2
+chrome126.0.0.0 273 75
+firefox108.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+RPLG-WPPlugin/1.0 20240612222618
+WhatsApp/2.23.20.0 20240612191331
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240611040931
+WordPress/6.5.4;_https://siempreduclces.online 20240615234857
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240611040931
+WordPress/6.5.4;_https://siempreduclces.online 20240615234857
+WhatsApp/2.23.20.0 20240612191331
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 843 994
+From1 0 0
+From2 0 0
+From3 3 3
+From4 3766 10781
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://cliente.hostgator.co 2 2
+https://shared22.hostgator.co:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+409 566 48064
+500 50 70574
+403 16 117642
+201 5 6371
+503 2 4206
+401 40 5026
+404 52 971030
+302 257 179519
+400 6 126
+206 2 128536
+406 17 3842
+301 21 988
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/login/(abre%20en%20una%20nueva%20pesta%C3%B1a 4 https://siempreduclces.online/
+/wp-admind 2 -
+/wp-admin/async-upload.php 1 https://siempreduclces.online/wp-admin/post.php
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js 1 https://siempreduclces.online/terminos-y-condiciones/
+/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js 1 https://siempreduclces.online/terminos-y-condiciones/
+/login/(abre+en+una+nueva+pesta%C3%B1a 1 -
+/sapp-wp-signon.php 1 -
+/wp-admin/admin-ajax.php 11 https://siempreduclces.online/wp-admin/customize.php
+/wp-admin/edit.php 1 https://siempreduclces.online/wp-admin/edit.php
+/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js 2 https://siempreduclces.online/terminos-y-condiciones/
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js 2 https://siempreduclces.online/terminos-y-condiciones/
+/wp-content/plugins/woocommerce/assets/client/blocks/coming-soon.css 2 https://siempreduclces.online/wp-admin/post-new.php
+/ 4 -
+/wp-json/wp/v2/users/4 1 https://siempreduclces.online/
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js 1 https://siempreduclces.online/terminos-y-condiciones/
+/wp-content/uploads/uag-plugin/assets/5000/uag-js-4516.js 2 https://siempreduclces.online/terminos-y-condiciones/
+/wp-admin 2 https://cliente.hostgator.co/
+/sapp-plugin-activate.php 1 -
+/wp_admin 5 -
+/su-codigo-qr/ 2 -
+/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css 2 https://siempreduclces.online/terminos-y-condiciones/
+/wp-content/uploads/uag-plugin/assets/5000/uag-css-4516.css 2 https://siempreduclces.online/terminos-y-condiciones/
+/.git/config 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 153
+190.90.39.232 3679 10154 204298622 20240612224049
+162.241.61.139 649 691 19975012 20240615234857
+8.242.126.18 75 273 5194337 20240615212151
+190.254.18.118 19 113 2215272 20240613064257
+191.156.233.15 18 77 534144 20240613084230
+193.233.233.29 6 6 193688 20240615071436
+46.250.225.249 4 12 1018356 20240611230643
+150.109.16.20 3 8 83881 20240612112047
+5.188.62.140 3 3 65453 20240614190451
+213.152.162.84 3 3 1248 20240614130024
+170.64.181.87 3 3 257334 20240613125405
+204.8.98.35 2 2 832 20240611044416
+104.254.90.251 2 2 832 20240614050026
+43.155.183.138 2 6 19634 20240615215503
+184.75.223.227 2 2 832 20240615004531
+217.151.98.163 2 2 832 20240614234703
+62.102.148.185 2 2 832 20240614102913
+193.37.254.35 2 2 832 20240611164352
+141.98.101.133 2 2 832 20240611171544
+91.207.102.163 2 2 832 20240611021303
+91.219.214.131 2 2 832 20240614230208
+193.37.252.51 2 2 832 20240614074540
+178.238.229.54 2 2 832 20240614175932
+104.254.90.195 2 2 832 20240613050223
+213.152.161.149 2 2 832 20240611231548
+213.152.161.244 1 1 416 20240613020125
+43.133.38.182 1 1 31006 20240613212638
+193.41.226.117 1 1 31998 20240612192513
+37.120.132.83 1 1 416 20240614221451
+195.206.105.203 1 1 416 20240614051646
+3.17.10.244 1 76 822492 20240613180033
+36.99.136.136 0 20 150663 
+5.133.192.88 1 2 85385 20240612154252
+43.163.6.124 1 4 39352 20240614213530
+192.36.109.73 1 1 30997 20240614034120
+204.8.98.45 1 1 416 20240612152734
+186.103.23.241 1 71 615799 20240612192020
+44.227.127.2 1 26 601759 20240612012332
+43.159.63.75 0 4 4782 
+84.54.51.69 1 1 291 20240612192533
+213.152.161.10 1 1 416 20240612103016
+45.90.61.233 0 1 57600 
+89.238.150.43 1 1 416 20240611025947
+43.131.249.153 1 1 31004 20240615200241
+43.153.93.68 1 1 31006 20240615082044
+146.70.76.35 1 1 416 20240613090133
+146.70.61.139 1 1 416 20240611162719
+36.99.136.137 1 22 96472 20240615034858
+43.163.8.148 0 4 13358 
+82.102.27.195 1 1 416 20240614100132
+103.251.167.20 1 1 32162 20240612192518
+62.102.148.164 1 1 416 20240613134333
+185.206.225.59 1 1 416 20240613195825
+89.104.100.128 1 3 146196 20240616010320 20240616010320 /
+43.155.160.173 0 3 9618 
+175.6.217.4 1 1 31003 20240614193551
+185.156.174.27 1 1 416 20240611233002
+43.128.100.220 0 1 1174 
+185.200.116.203 1 1 416 20240614164435
+37.120.132.91 1 1 416 20240611041225
+146.70.111.19 1 1 416 20240611222736
+58.49.233.126 1 1 29563 20240612184152
+150.109.13.194 0 2 27535 
+204.8.98.95 1 1 416 20240614052911
+43.134.190.89 0 1 986 
+43.157.66.187 1 1 31005 20240614111316
+43.135.166.178 1 1 69601 20240611103941
+173.249.57.253 1 1 29558 20240612192505
+150.109.253.34 1 4 97317 20240615112225
+92.119.178.3 2 2 832 20240612161400
+43.163.0.99 1 2 38276 20240613194813
+104.131.70.99 1 1 3272 20240611202618
+156.96.151.132 1 1 416 20240611134512
+217.138.252.123 1 1 416 20240611123031
+43.128.100.206 0 1 12282 
+193.37.252.99 1 1 416 20240611131408
+37.120.155.179 1 1 416 20240614110124
+128.90.170.5 2 2 31505 20240613212456
+52.11.171.106 1 1 30999 20240614073436
+217.138.217.107 1 1 416 20240611165640
+89.238.166.235 1 1 416 20240614081607
+43.163.3.58 1 5 21541 20240611195429
+199.189.27.123 1 1 416 20240615013142
+43.133.72.69 0 7 36434 
+121.229.185.160 1 1 69601 20240611064322
+193.37.252.115 1 1 416 20240614133216
+3.81.206.248 1 1 127326 20240613025546
+43.134.170.46 1 3 79218 20240611133140
+49.51.206.130 1 1 29564 20240612195214
+129.226.158.26 1 1 31004 20240615213517
+193.37.254.3 2 2 832 20240611194641
+135.148.195.5 1 1 30998 20240614012004
+128.127.105.184 1 1 416 20240612150154
+178.62.76.155 1 2 88598 20240615213628
+146.70.61.147 2 2 832 20240612030111
+221.229.106.25 1 1 31005 20240613063822
+205.210.31.84 1 1 272090 20240611040931
+62.102.148.189 2 2 832 20240613170001
+193.37.252.67 1 1 416 20240611095927
+184.75.221.171 1 1 416 20240611155818
+43.159.129.209 1 1 31006 20240615134246
+185.189.112.11 1 1 416 20240613184331
+43.131.62.4 2 2 62008 20240614133334
+43.163.6.35 0 3 4330 
+43.163.1.85 2 2 58792 20240614200057
+124.156.193.7 1 5 11009 20240615215657
+141.98.102.243 1 1 416 20240613054714
+213.152.162.94 1 1 416 20240611135637
+34.220.79.156 1 1 30997 20240614080659
+170.106.101.31 1 1 30988 20240612215445
+54.223.89.173 1 2 74292 20240611055226
+43.155.136.16 0 1 20071 
+43.128.110.17 1 2 28795 20240612060221
+178.162.212.214 1 1 416 20240611094539
+185.200.116.211 1 1 416 20240612154355
+192.3.142.40 1 1 69597 20240611131127
+43.130.31.48 1 1 31006 20240615105156
+18.237.248.177 1 1 30998 20240614080657
+204.8.98.65 1 1 416 20240613211510
+62.102.148.156 1 1 416 20240612220030
+43.134.66.205 0 3 8679 
+203.33.203.148 1 1 31005 20240613185637
+104.254.90.235 1 1 416 20240612201558
+43.130.37.62 1 1 31005 20240613104301
+104.166.80.17 1 1 30997 20240615212459
+176.53.223.249 1 2 88595 20240614230651
+213.152.161.234 2 2 832 20240612071707
+104.166.80.147 1 1 31001 20240615083445
+66.249.66.66 1 1 28231 20240614230617
+195.206.105.227 1 1 416 20240611025920
+193.37.254.27 1 1 416 20240614094522
+135.148.195.2 0 1 57600 
+170.106.104.42 1 1 27792 20240612110013
+208.77.22.212 1 1 416 20240614163014
+146.70.115.219 1 1 416 20240614070136
+35.162.211.114 1 1 272090 20240611095532
+184.75.223.219 1 1 416 20240614194703
+64.42.179.35 1 1 416 20240611155857
+192.30.89.59 1 1 416 20240611133052
+82.102.23.131 2 2 832 20240614040108
+217.138.195.19 1 1 416 20240612035908
+14.215.163.132 1 1 31005 20240614063744
+36.99.136.129 1 2 88597 20240615034853
+185.195.237.203 2 2 832 20240612221342
+43.155.169.133 0 5 62955 
+45.15.18.72 0 1 23744 
+208.80.194.41 1 1 127326 20240614121003
+185.156.174.115 2 2 832 20240614061402
+176.53.221.247 0 1 57600 
+64.23.186.106 1 1 30999 20240613195144
+43.134.142.8 0 5 46023 
+176.53.221.148 1 2 88599 20240613203917
+68.235.52.68 2 2 832 20240614154455
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20240611 1288 3165 99355486 48
+20240612 3030 7783 130603426 33
+20240613 101 351 4562108 38
+20240614 72 95 908119 45
+20240615 120 377 6073357 24
+20240616 1 3 146196 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 13
+2mn-5mn 8
+0s-30s 152
+5mn-15mn 1
+30mn-1h 8
+30s-2mn 3
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 159
+/wp-admin/admin-ajax.php 1794 15443582 0 2
+/wp-cron.php 518 0 35 34
+/ 220 10125017 65 59
+/wp-admin/admin.php 134 4301687 0 0
+/wp-admin/edit.php 109 6394758 0 0
+/wp-json/ 107 110800 1 1
+/wp-admin/post.php 106 39188442 0 0
+/xmlrpc.php 90 37440 77 77
+/login/ 82 3362443 1 1
+/user/tico/ 80 2714873 1 1
+/wp-content/themes/astra/inc/compatibility/starter-content/astra-settings-export.json 66 19140726 0 0
+/wp-json/wp/v2/blocks 54 1188 0 0
+/wp-json/wp/v2/block-patterns/categories 53 42943 0 0
+/wp-json/wp/v2/themes 53 105911 0 0
+/su-codigo-qr/ 53 1615866 1 1
+/wp-json/wp/v2/wp_pattern_category 53 1166 0 0
+/wp-content/plugins/really-simple-ssl/testssl/serverhttpson/ssl-test-page.html 52 8112 0 0
+/wp-json/wp/v2/taxonomies 52 184789 0 0
+/wp-json/wp/v2/users 51 2743 0 0
+/user/admintico/ 50 1801716 1 1
+/register/ 47 1428432 0 2
+/wp-json/wp/v2/users/1 39 2077 1 1
+/user/belkis1/ 37 1117764 0 0
+/wp-admin/load-scripts.php 35 2765483 0 0
+/wp-admin/users.php 33 1569510 0 0
+/wp-json/reallysimplessl/v1/do_action/otherpluginsdata 1 352 0 0
+/wp-admin/post-new.php 4 2136246 0 0
+/wp-admin/customize.php 14 30328944 0 0
+/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2 3 235720 0 0
+/wp-json/reallysimplessl/v1/do_action/ssltest_get 1 57 0 0
+/QR-p/eliecer2guevara2/ 2 64917 0 0
+/wp-content/themes/vertice/resources/google-fonts/Poppins-700normal-latin.woff2 2 7816 0 0
+/wp-json/wp/v2/types 13 10095 0 0
+/wp-json/wp/v2/pages/67 1 4302 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 2 96924 0 0
+/wp-json/wp/v2/private-page/130 9 29407 0 0
+/wp-json/wp/v2/media/170 1 1409 0 0
+/QR-p/beliks-guevara/ 13 464983 0 0
+/wp-admin/load-styles.php 31 5280027 0 0
+/wp-content/plugins/armember-membership/fonts/poppins/Poppins-Bold.woff2 1 51800 0 0
+/account/ 8 283095 0 0
+/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff 29 686168 0 0
+/wp-json/wp/v2/users/3 6 312 0 0
+/wp-admin/nav-menus.php 20 908178 0 0
+/feed/ 1 5130 1 0
+/wp-json/wp/v2/widget-types 13 13571 0 0
+/wp-json/wp/v2/pages 14 4796 0 0
+/wp-content/themes/vertice/resources/fonts/vendor/element-icons.woff 1 28200 0 0
+/wp-admin/ 7 550445 0 0
+/wp-json/wp/v2/categories/1 1 274 0 0
+//wp-json/wp/v2/users/ 1 2682 0 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 78196 0 0
+/wp-admin/themes.php 8 407206 0 0
+/wp-content/plugins/armember-membership/fonts/poppins/Poppins-Medium.woff2 1 51692 0 0
+/wp-json/reallysimplessl/v1/tests/progressData 1 1334 0 0
+/wp-json/wp/v2/media/135 2 2720 0 0
+/wp-admin/widgets.php 1 180895 0 0
+/wp-json/wp/v2/private-page/132 1 4018 0 0
+/wp-json/wp/v2/pages/141 1 4302 0 0
+/wp-content/uploads/code-execution.php 2 94 0 0
+/wp-content/plugins/really-simple-ssl/ssl-test-page.php 2 488 0 0
+/wp-json/gutenberg-templates/v1/setup 1 51 0 0
+/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/pa-dashboard.ttf 8 117048 0 0
+/wp-json/wp/v2/pages/10 6 23574 1 1
+/sample-page/ 1 24620 1 1
+/wp-json/wp/v2/block-renderer/core/rss 1 383 0 0
+/wp-json/reallysimplessl/v1/fields/get 1 14752 0 0
+/wp-json/wp/v2/pages/63 2 8604 0 0
+/wp-json/wp/v2/pages/76 7 30114 0 0
+/wp-json/wp/v2/block-patterns/patterns 9 1059683 0 0
+/wp-admin/tools.php 1 23552 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2 2 292120 0 0
+/wp-json/wp/v2/pages/5132 1 2869 0 0
+/wp-admin/site-health.php 2 95998 0 0
+/user/eliecer2guevara2/ 2 68145 0 0
+/wp-admin/update.php 1 22872 0 0
+/wp-json/wp/v2/pages/91 3 10212 0 0
+/wp-json/wp/v2/media 7 8057 0 0
+/wp-json/wp/v2/block-renderer/core/archives 1 144 0 0
+/wp-admin/upload.php 1 127415 0 0
+/wp-json/wc-analytics/admin/notes 2 2632 0 0
+/wp-json/wp/v2/categories 4 680 0 0
+/wp-json/wp/v2/pages/79 2 8604 0 0
+/wp-json/reallysimplessl/v1/do_action/get_hosts 1 2409 0 0
+/wp-json/wp/v2/taxonomies/category 3 3015 0 0
+/wp-json/wp/v2/tags 8 457 0 0
+/wp-admin/export.php 2 74370 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 1 1304 0 0
+/wp-json/wp/v2/media/133 1 1356 0 0
+/wp-content/plugins/armember-membership/fonts/poppins/Poppins-SemiBold.woff2 1 52404 0 0
+/wp-json/wp/v2/users/me 29 28833 0 0
+/check_charset.php 1 77 0 0
+/wp-json/elementor/v1/kit-elements-defaults 23 506 0 0
+/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2 3 312808 0 0
+/wp-json/reallysimplessl/v1/do_action/hardening_data 1 190 0 0
+/wp-json/wp/v2/media/32 1 1349 0 0
+/account/privacy/ 1 30280 0 0
+/wp-json/oembed/1.0/embed 2 2140 1 1
+/login-2/ 3 94716 0 0
+/wp-json/wp/v2/private-page/131 7 25725 0 0
+/members/ 2 67274 0 0
+/wp-admin/about.php 4 127987 0 0
+/wp-json/wp/v2/posts 1 1235 0 0
+/wp-admin/install.php 1 507 0 1
+/wp-json/wp/v2/pages/77 3 12906 0 0
+/wp-json/wp/v2/block-renderer/core/latest-comments 1 237 0 0
+/wp-admin/options-writing.php 1 26604 0 0
+/wp-admin/theme-install.php 3 155660 0 0
+/wp-json/reallysimplessl/v1/do_action/dismiss_modal 2 204 0 0
+/wp-json/wp/v2/private-page/132/autosaves 1 1083 0 0
+/wp-json/elementor/v1/globals/colors 1 157 0 0
+/wp-json/wp/v2/posts/89 2 9312 0 0
+/cancel_payment/ 1 71703 0 0
+/wp-json/gutenberg-templates/v1/blocks 1 2656741 0 0
+/wp-content/themes/vertice/resources/google-fonts/Poppins-900normal-latin.woff2 1 7632 0 0
+/wp-admin/user-edit.php 11 430636 0 0
+/wp-admin/export-personal-data.php 3 92334 0 0
+/wp-content/themes/vertice/resources/google-fonts/Poppins-500normal-latin.woff2 2 7748 0 0
+/wp-json/spectra/v1/editor 2 406 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18824 0 0
+/wp-content/plugins/armember-membership/fonts/fontawesome-webfont.woff2 2 77160 0 0
+/wp-json/elementor/v1/globals 25 10758 0 0
+/wp-admin/async-upload.php 11 6397 0 0
+/wp-json/wp-site-health/v1/directory-sizes 2 452 0 0
+/wp-content/themes/vertice/resources/google-fonts/Roboto-300normal-latin.woff2 2 15740 0 0
+/wp-json/wp/v2/media/173 1 1411 0 0
+/wp-json/wp/v2/media/137 2 2740 0 0
+/wp-json/wp/v2/private-page/131/autosaves 1 1292 0 0
+/wp-admin/plugin-install.php 8 315818 0 0
+/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff 25 408360 0 0
+/QR-p/eliecer-guevara/ 21 655398 0 0
+/wp-content/plugins/armember-membership/fonts/poppins/Poppins-Regular.woff2 1 52456 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2 2 653256 0 0
+/wp-json/wc-admin/onboarding/tasks 2 3373 0 0
+/wp-json/wp/v2/media/174 1 1413 0 0
+/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2 3 50784 0 0
+/wp-json/wc-admin/options 10 750 0 0
+/wp-json/wp/v2/private-page/130/autosaves 5 7782 0 0
+/wp-content/themes/vertice/resources/google-fonts/Poppins-300normal-latin.woff2 2 7840 0 0
+/QR-p/admintico/ 5 155716 0 0
+/wp-json/wp/v2/taxonomies/post_tag 2 1870 0 0
+/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2 2 210368 0 1
+/wp-admin/profile.php 6 232756 0 0
+/wp-json/wp/v2/pages/81 2 8604 0 0
+/wp-json/wp/v2/users/2 6 318 0 0
+/wp-json/wp/v2/posts/89/autosaves 1 668 0 0
+/wp-json/wp/v2/settings 2 1883 0 0
+/wp-json/wp/v2/pages/143/autosaves 4 3138 0 0
+/wp-json/reallysimplessl/v1/do_action/get_modal_status 1 116 0 0
+/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf 5 34224 0 0
+/comments/feed/ 1 585 0 1
+/wp-content/themes/vertice/resources/google-fonts/Poppins-400normal-latin.woff2 2 7884 0 0
+/wp-login.php 15 49189 2 1
+/wp-json/wp/v2/pages/143 9 23255 0 0
+/wp-json/reallysimplessl/v1/do_action/onboarding_data 1 1633 0 0
+/wp-content/plugins/premium-addons-for-elementor/admin/assets/fonts/iconpicker.woff 3 3344 0 0
+/wp-admin/options-general.php 6 338038 0 0
+/wp-json/wp/v2/pages/78 7 23711 0 0
+/wp-admin/plugins.php 22 1329902 0 0
+END_SIDER

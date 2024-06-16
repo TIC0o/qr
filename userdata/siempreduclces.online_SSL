@@ -1,0 +1,18 @@
+--- 
+documentroot: /home1/siempr37/public_html
+group: siempr37
+hascgi: 0
+homedir: /home1/siempr37
+ip: 162.241.61.139
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@siempreduclces.online
+serveralias: mail.siempreduclces.online www.siempreduclces.online
+servername: siempreduclces.online
+ssl: 1
+usecanonicalname: 'Off'
+user: siempr37
+userdirprotect: ''
